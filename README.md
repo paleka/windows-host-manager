@@ -7,5 +7,4 @@ It simply replaces the content of host file. Starts with administrator privilege
 
 In folder assets/hosts just add/remove txt files with host information and their names will show up in the form once it's started. 
 
-//todo: text search 
-//todo: last active host file on start
+//todo: text search & last active host file on start
